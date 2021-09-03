@@ -6,7 +6,6 @@ body {
     margin: 0;
 }
 
-Ahora se que no se hace, pero ya es tarde para este desafío!
 body * {
     margin: 0;
     padding: 0;
@@ -85,17 +84,15 @@ body * {
     margin: 0 30px;
 }
 
-.grupoimagen {
-    text-align: left;
-    margin: 0 40px;
-    
-}
 
 .imagenes {
     display: inline-block;
-    padding: 20px;
-    max-width: 250px;
-    
+    padding: 20px;   
+}
+
+.img1 {
+    width: 416px;
+    height: 302px;
 }
 
 .sitio{
@@ -109,6 +106,7 @@ body * {
     color: #ffffff;
     font-weight: 20px;
 }
+
 
 
 
